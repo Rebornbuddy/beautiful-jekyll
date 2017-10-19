@@ -29,8 +29,8 @@ navbar-links:
     - CN (v278): "http://updates.buddyauths.com/GetNewest?filter=RebornbuddyCN"
   Resources:
     - BotBases: "botbases"
-    - Profiles: "profiles"
     - Plugins: "plugins"
+    - Profiles: "profiles"
     - Routines: "routines"
     - Tools: "tools"
   Discord Servers: "discord"
