@@ -28,12 +28,12 @@ navbar-links:
     - NA (v175): "http://updates.buddyauths.com/GetNewest?filter=Rebornbuddy64"
     - CN (v278): "http://updates.buddyauths.com/GetNewest?filter=RebornbuddyCN"
   Resources:
-    - BotBases: "botbases.md"
-    - Profiles: "profiles.md"
-    - Plugins: "plugins.md"
-    - Routines: "routines.md"
-    - Tools: "tools.md"
-  Discord Servers: "discord.md"
+    - BotBases: "botbases"
+    - Profiles: "profiles"
+    - Plugins: "plugins"
+    - Routines: "routines"
+    - Tools: "tools"
+  Discord Servers: "discord"
   Forums: "https://www.thebuddyforum.com/forums/rebornbuddy-forum.298/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
