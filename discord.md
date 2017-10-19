@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Discord Servers
-subtitle: 
 ---
 
 My name is Inigo Montoya. I have the following qualities:
