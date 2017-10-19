@@ -33,11 +33,11 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 a {
-  color: #7289DA;
+  color: #33CC66;
 }
 a:hover,
 a:focus {
-  color: #99AAB5;
+  color: #669933;
 }
 blockquote {
   color: #808080;
@@ -129,14 +129,14 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #FFFFFF;
+  color: #33CC66;
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #7289DA;
+  color: #669933;
 }
 
 .navbar-custom .navbar-brand-logo {
