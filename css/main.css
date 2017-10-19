@@ -256,8 +256,8 @@ img {
     text-align: center;
   }
   .navbar-custom .nav .navlinks-container:hover {
-    background: #333;
-    border-width: 0 1px 1px 1px;
+    display: block;
+    background: #2C2F33;
   }
   .navbar-custom .nav .navlinks-container:hover .navlinks-children {
     display: block;
