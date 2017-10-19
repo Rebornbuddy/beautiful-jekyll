@@ -23,6 +23,7 @@ description: A comprehensive catalogue of Rebornbuddy information!
 
 # List of links in the navigation bar
 navbar-links:
+  Purchase: "https://www.rebornbuddy.com/"
   Download:
     - NA (v175): "http://updates.buddyauths.com/GetNewest?filter=Rebornbuddy64"
     - CN (v278): "http://updates.buddyauths.com/GetNewest?filter=RebornbuddyCN"
@@ -88,7 +89,7 @@ footer-links-active:
   email: true
   twitter: false
   google-plus: false
-  github: true
+  github: false
   reddit: false
   linkedin: false
   xing: false
