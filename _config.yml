@@ -48,7 +48,9 @@ avatar: "/img/avatar-icon.png"
 # footer-col: "blue"
 # footer-img: "/img/bgimage.png"
 # page-col: "#FF0000"
-# page-img: "/img/bgimage.png"
+navbar-col: "#2C2F33"
+footer-col: "#2C2F33"
+page-col: "#23272A"
 
 # --- Footer options --- #
 
