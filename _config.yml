@@ -23,12 +23,12 @@ description: A comprehensive catalogue Rebornbuddy information!
 
 # List of links in the navigation bar
 navbar-links:
-  Discord Servers: "discord.md"
-  Forums: "https://www.thebuddyforum.com/forums/rebornbuddy-forum.298/"
   Resources:
     - BotBases: "botbases.md"
     - Profiles: "profiles.md"
     - Plugins: "plugins.md"
+  Discord Servers: "discord.md"
+  Forums: "https://www.thebuddyforum.com/forums/rebornbuddy-forum.298/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
