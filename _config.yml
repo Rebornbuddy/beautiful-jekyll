@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Rebornbuddy64 (Build 175)
+title: Rebornbuddy (DX11 FFXIV Bot)
 
 # Short description of your site
 description: A comprehensive catalogue of Rebornbuddy information!
@@ -23,6 +23,9 @@ description: A comprehensive catalogue of Rebornbuddy information!
 
 # List of links in the navigation bar
 navbar-links:
+  Download:
+    - NA (v175): "http://updates.buddyauths.com/GetNewest?filter=Rebornbuddy64"
+    - CN (v278): "http://updates.buddyauths.com/GetNewest?filter=RebornbuddyCN"
   Resources:
     - BotBases: "botbases.md"
     - Profiles: "profiles.md"
