@@ -55,10 +55,10 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: y2krazy
-  email: "y2krazy.profiles@gmail.com"
+  name: Rebornbuddy
+  email: "support@thebuddyforums.com"
   facebook: yourname  # eg. daattali
-  github: y2krazy    # eg. daattali
+  github: Rebornbuddy    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
@@ -130,7 +130,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Berlin"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
