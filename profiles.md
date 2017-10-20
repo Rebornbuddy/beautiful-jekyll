@@ -31,8 +31,8 @@ Active | Link | Description | Developer(s)
 ✔️ | [📥][sodimm] | Aether Currents (Stormblood) | [sodimm][Profile_sodimm]
 ✔️ | [🔗][y2krazy] | Seasonal Events<br/>GC Hunting Logs<br/>Aether Currents<br/>Aethernets | [y2krazy][Profile_y2krazy]
 
-⛔️ - Inactive is defined as no updates provided in the last 3 months.
-🔗 - This link is to a forum thread.
+⛔️ - Inactive is defined as no updates provided in the last 3 months.<br/>
+🔗 - This link is to a forum thread.<br/>
 📥 - This link is to a repository.
 
 - [Profiles Support Forums][Profiles Forum]
