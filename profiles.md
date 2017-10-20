@@ -37,7 +37,7 @@ Active | Link | Description | Developer(s)
 
 ## Useful Links
 
-- [Profiles Support Forums][Profiles Forum]
+- [Rebornbuddy Profiles Forum][Profiles Forum]
 
 [y2krazy]: https://www.thebuddyforum.com/threads/order-bot-quests-quests-and-quests.216756/ ""
 [y2krazy2]: https://github.com/y2krazy/RebornBuddy-Profiles "y2krazy's Repository"
@@ -46,4 +46,4 @@ Active | Link | Description | Developer(s)
 [Profile_y2krazy]: https://www.thebuddyforum.com/members/y2krazy.67481/ "y2krazy's Forum Profile"
 [Profile_sodimm]: https://www.thebuddyforum.com/members/sodimm.313130/ "sodimm's Forum Profile"
 
-[Profiles Forum]: https://www.thebuddyforum.com/forums/rebornbuddy-profiles.303/ "Profiles Support Forums"
+[Profiles Forum]: https://www.thebuddyforum.com/forums/rebornbuddy-profiles.303/ "Rebornbuddy Profiles Forum"
