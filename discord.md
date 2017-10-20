@@ -3,6 +3,8 @@ layout: page
 title: Discord Servers
 ---
 
+## Official Server
+
 Active | Invite | Name | Owner(s)
 :----: | :----: | ---- | :------:
 ✔️ | [Click to Join!][Rebornbuddy] | Rebornbuddy | The Buddy Team
