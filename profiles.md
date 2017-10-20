@@ -7,29 +7,29 @@ title: Profiles
 
 Active | Link | Description | Developer(s)
 :-------: | :--: | ----------- | :----------:
-✔️ | [🔗][y2krazy] | "Official" Questing Pack (Lv1-70)<br/>Class and Job Quests<br/>Gathering Leveling (Lv1-60) | [y2krazy][Profile_y2krazy]
 ✔️ | [📥][sodimm] | Questing Pack (Lv1-70; MSQ Only)<br/>Job Quests (Lv60-70)<br/>Crafting Class Quests (Lv60-70)<br/>Gathering Leveling (Lv60-70) | [sodimm][Profile_sodimm]
+✔️ | [🔗][y2krazy] | "Official" Questing Pack (Lv1-70)<br/>Class and Job Quests<br/>Gathering Leveling (Lv1-60) | [y2krazy][Profile_y2krazy]
 
 ## Gathering Profiles
 
 Active | Link | Description | Developer(s)
 :-------: | :--: | ----------- | :----------:
-✔️ | [🔗][y2krazy] | Gathering Leveling (Lv1-70)<br/>Purchase Leveling Gear | [y2krazy][Profile_y2krazy]
 ✔️ | [📥][sodimm] | Gathering Leveling (Lv60-70) | [sodimm][Profile_sodimm]
+✔️ | [🔗][y2krazy] | Gathering Leveling (Lv1-70)<br/>Purchase Leveling Gear | [y2krazy][Profile_y2krazy]
 
 ## Crafting Profiles
 
 Active | Link | Description | Developer(s)
 :-------: | :--: | ----------- | :----------:
-✔️ | [🔗][y2krazy] | Crafting Leveling (Lv1-60)<br/>Purchase Leveling Gear | [y2krazy][Profile_y2krazy]
 ✔️ | [📥][sodimm] | Crafting Class Quests (Lv60-70) | [sodimm][Profile_sodimm]
+✔️ | [🔗][y2krazy] | Crafting Leveling (Lv1-60)<br/>Purchase Leveling Gear | [y2krazy][Profile_y2krazy]
 
 ## Other Profiles
 
 Active | Link | Description | Developer(s)
 :-------: | :--: | ----------- | :----------:
-✔️ | [🔗][y2krazy] | Seasonal Events<br/>GC Hunting Logs<br/>Aether Currents<br/>Aethernets | [y2krazy][Profile_y2krazy]
 ✔️ | [📥][sodimm] | Aether Currents (Stormblood) | [sodimm][Profile_sodimm]
+✔️ | [🔗][y2krazy] | Seasonal Events<br/>GC Hunting Logs<br/>Aether Currents<br/>Aethernets | [y2krazy][Profile_y2krazy]
 
 ⛔️ - Inactive is defined as no updates provided in the last 3 months.
 🔗 - This link is to a forum thread.
