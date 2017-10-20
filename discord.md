@@ -5,14 +5,14 @@ title: Discord Servers
 
 ## Official Server
 
-Active | Invite | Name | Owners
-:----: | :----: | ---- | :------:
+Active | Invite | Name | Owner
+:----: | :----: | ---- | :---:
 ✔️ | [Click to Join!][Rebornbuddy] | Rebornbuddy | The Buddy Team
 
 ## Community Servers
 
 Active | Invite | Name | Developer(s)
-:----: | :----: | ---- | :------:
+:----: | :----: | ---- | :----------:
 ⛔️ | [Click to Join!][ADAM] | ADAM | AnExiledGod#6391<br/>Coalesca Eir-Irata#9218
 ✔️ | [Click to Join!][EntraxBuddy] | EntraxBuddy | Entrax#4657
 ✔️ | [Click to Join!][Lisbeth & Agil] | Lisbeth & Agil | Saga#4789
