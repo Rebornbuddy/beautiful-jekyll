@@ -5,23 +5,23 @@ title: Discord Servers
 
 ## Official Server
 
-Active | Invite | Name | Owner(s)
+Active | Invite | Name | Owners
 :----: | :----: | ---- | :------:
 ✔️ | [Click to Join!][Rebornbuddy] | Rebornbuddy | The Buddy Team
 
 ## Community Servers
 
-Active | Invite | Name | Owner(s)
+Active | Invite | Name | Developer(s)
 :----: | :----: | ---- | :------:
 ⛔️ | [Click to Join!][ADAM] | ADAM | AnExiledGod#6391<br/>Coalesca Eir-Irata#9218
 ✔️ | [Click to Join!][EntraxBuddy] | EntraxBuddy | Entrax#4657
 ✔️ | [Click to Join!][Lisbeth & Agil] | Lisbeth & Agil | Saga#4789
-✔️ | [Click to Join!][Magitek] | Magitek | Exmortem#0328<br/>Kenny#5976
+✔️ | [Click to Join!][Magitek] | Magitek | Exmortem#0328<br/>Wheredidigo#1260<br/>Kenny#5976
 ✔️ | [Click to Join!][Mud Assist] | Mud Assist | Ghostakilla#2564
 ✔️ | [Click to Join!][Omniverse] | Omniverse | Omninewb#6032<br/>Fare Dawnstar#0461
 ✔️ | [Click to Join!][Shinra] | Shinra | Auk#9672
 ✔️ | [Click to Join!][Sodimms Stuff] | Sodimms Stuff | sodimm#5031
-✔️ | [Click to Join!][Wheredidigo] | Wheredidigo | Wheredidigo#1260
+✔️ | [Click to Join!][Wheredidigo] | Wheredidigo | Wheredidigo#1260<br/>Exmortem#0328
 ✔️ | [Click to Join!][y2kode] | y2kode | y2krazy#3589
 ✔️ | [Click to Join!][ZZI Productions] | ZZI Productions | zzi#7597
 
