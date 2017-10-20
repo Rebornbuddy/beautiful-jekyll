@@ -15,21 +15,21 @@ Active | Link | Description | Developer(s)
 Active | Link | Description | Developer(s)
 :-------: | :--: | ----------- | :----------:
 ✔️ | [📥][sodimm] | Gathering Leveling (Lv60-70) | [sodimm][Profile_sodimm]
-✔️ | [🔗][y2krazy] | Gathering Leveling (Lv1-70)<br/>Purchase Leveling Gear | [y2krazy][Profile_y2krazy]
+✔️ | [📥][y2krazy2] | Gathering Leveling (Lv1-70)<br/>Purchase Leveling Gear | [y2krazy][Profile_y2krazy]
 
 ## Crafting Profiles
 
 Active | Link | Description | Developer(s)
 :-------: | :--: | ----------- | :----------:
 ✔️ | [📥][sodimm] | Crafting Class Quests (Lv60-70) | [sodimm][Profile_sodimm]
-✔️ | [🔗][y2krazy] | Crafting Leveling (Lv1-60)<br/>Purchase Leveling Gear | [y2krazy][Profile_y2krazy]
+✔️ | [📥][y2krazy2] | Crafting Leveling (Lv1-60)<br/>Purchase Leveling Gear | [y2krazy][Profile_y2krazy]
 
 ## Other Profiles
 
 Active | Link | Description | Developer(s)
 :-------: | :--: | ----------- | :----------:
 ✔️ | [📥][sodimm] | Aether Currents (Stormblood) | [sodimm][Profile_sodimm]
-✔️ | [🔗][y2krazy] | Seasonal Events<br/>GC Hunting Logs<br/>Aether Currents<br/>Aethernets | [y2krazy][Profile_y2krazy]
+✔️ | [📥][y2krazy2] | Seasonal Events<br/>GC Hunting Logs<br/>Aether Currents<br/>Aethernets | [y2krazy][Profile_y2krazy]
 
 ⛔️ - Inactive is defined as no updates provided in the last 3 months.<br/>
 🔗 - This link is to a forum thread.<br/>
@@ -39,7 +39,8 @@ Active | Link | Description | Developer(s)
 
 - [Profiles Support Forums][Profiles Forum]
 
-[y2krazy]: https://www.thebuddyforum.com/threads/order-bot-quests-quests-and-quests.216756/ "y2krazy's Forum Thread"
+[y2krazy]: https://www.thebuddyforum.com/threads/order-bot-quests-quests-and-quests.216756/ ""
+[y2krazy2]: https://github.com/y2krazy/RebornBuddy-Profiles "y2krazy's Repository"
 [sodimm]: https://github.com/sodimm/RebornBuddy "sodimm's Repository"
 
 [Profile_y2krazy]: https://www.thebuddyforum.com/members/y2krazy.67481/ "y2krazy's Forum Profile"
