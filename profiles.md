@@ -39,7 +39,7 @@ Active | Link | Description | Developer(s)
 
 - [Rebornbuddy Profiles Forum][Profiles Forum]
 
-[y2krazy]: https://www.thebuddyforum.com/threads/order-bot-quests-quests-and-quests.216756/ ""
+[y2krazy]: https://www.thebuddyforum.com/threads/order-bot-quests-quests-and-quests.216756/ "[Order Bot] Quests, Quests and Quests!"
 [y2krazy2]: https://github.com/y2krazy/RebornBuddy-Profiles "y2krazy's Repository"
 [sodimm]: https://github.com/sodimm/RebornBuddy "sodimm's Repository"
 
