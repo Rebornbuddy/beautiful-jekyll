@@ -7,7 +7,7 @@ Active | Invite | Name | Owner(s)
 :----: | :----: | ---- | :------:
 ✔️ | [Click to Join!][Rebornbuddy] | Rebornbuddy | The Buddy Team
  | | | 
-⛔️ | [Click to Join!][Allagan Data Acquisition Module] | Allagan Data Acquisition Module | AnExiledGod & The Commodore
+⛔️ | [Click to Join!][ADAM] | ADAM | AnExiledGod & The Commodore
 ✔️ | [Click to Join!][Shinra] | Shinra | Auk
 ✔️ | [Click to Join!][EntraxBuddy] | EntraxBuddy | Entrax
 ✔️ | [Click to Join!][Magitek] | Magitek | Exmortem & Kenny
@@ -20,7 +20,7 @@ Active | Invite | Name | Owner(s)
 ✔️ | [Click to Join!][ZZI Productions] | ZZI Productions | zzi
 
 [Rebornbuddy]: https://discord.gg0f2sahMWVJo5Xyie "Rebornbuddy"
-[Allagan Data Acquisition Module]: https://discord.gg/hhpW645 "Allagan Data Acquisition Module"
+[ADAM]: https://discord.gg/hhpW645 "ADAM"
 [Shinra]: https://discord.gg/uEhp5BJ "Shinra"
 [EntraxBuddy]: https://discord.gg/gpUMYC9 "EntraxBuddy"
 [Magitek]: https://discord.gg/W6TXCNU "Magitek"
