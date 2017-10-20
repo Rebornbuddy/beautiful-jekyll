@@ -17,8 +17,6 @@ Active | Invite | Owner(s)
 ✔️ | [Click to Join!][y2kode] | y2krazy
 ✔️ | [Click to Join!][ZZI Productions] | zzi
 
----
-
 [Allagan Data Acquisition Module]: https://discord.gg/hhpW645 "Allagan Data Acquisition Module"
 [Shinra]: https://discord.gg/uEhp5BJ "Shinra"
 [EntraxBuddy]: https://discord.gg/gpUMYC9 "EntraxBuddy"
