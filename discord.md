@@ -3,6 +3,8 @@ layout: page
 title: Discord Servers
 ---
 
+<center>
+
 Active | Invite | Owner(s)
 :----: | :----: | :------:
 ⛔️ | [Click to Join!][Allagan Data Acquisition Module] | AnExiledGod & The Commodore
@@ -16,6 +18,8 @@ Active | Invite | Owner(s)
 ✔️ | [Click to Join!][Wheredidigo] | Wheredidigo
 ✔️ | [Click to Join!][y2kode] | y2krazy
 ✔️ | [Click to Join!][ZZI Productions] | zzi
+
+</center>
 
 [Allagan Data Acquisition Module]: https://discord.gg/hhpW645 "Allagan Data Acquisition Module"
 [Shinra]: https://discord.gg/uEhp5BJ "Shinra"
