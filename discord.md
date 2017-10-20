@@ -4,7 +4,7 @@ title: Discord Servers
 ---
 
 Active | Invite | Owner(s)
-:----: | :----: | :------:
+:----: | ------ | --------
 :x: | https://discord.gg/hhpW645 | AnExiledGod & The Commodore
 :heavy_check_mark: | https://discord.gg/uEhp5BJ | Auk
 :heavy_check_mark: | https://discord.gg/gpUMYC9 | Entrax
