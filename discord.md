@@ -4,7 +4,7 @@ title: Discord Servers
 ---
 
 Active | Invite | Owner(s)
-:----: | ------ | --------
+:----: | :----: | :------:
 ⛔️ | [💬 Click to Join!][Allagan Data Acquisition Module] | AnExiledGod & The Commodore
 ✔️ | https://discord.gg/uEhp5BJ | Auk
 ✔️ | https://discord.gg/gpUMYC9 | Entrax
