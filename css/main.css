@@ -645,13 +645,13 @@ table {
   padding: 0;
 }
 table tr {
-  border-top: 1px solid #cccccc;
-  background-color: #ffffff;
+  border-bottom: 1px solid #cccccc;
+  background-color: #2C2F33;
   margin: 0;
   padding: 0;
 }
 table tr:nth-child(2n) {
-  background-color: #f8f8f8;
+  background-color: #2C2F33;
 }
 table tr th {
   font-weight: bold;
