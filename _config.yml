@@ -26,7 +26,7 @@ navbar-links:
   Purchase: "https://www.rebornbuddy.com/"
   Download:
     - NA (v175): "http://updates.buddyauths.com/GetNewest?filter=Rebornbuddy64"
-    - CN (v278): "http://updates.buddyauths.com/GetNewest?filter=RebornbuddyCN"
+    - CN (v281): "http://updates.buddyauths.com/GetNewest?filter=RebornbuddyCN"
   Resources:
     - BotBases: "botbases"
     - Plugins: "plugins"
