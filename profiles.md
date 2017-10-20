@@ -35,6 +35,8 @@ Active | Link | Description | Developer(s)
 🔗 - This link is to a forum thread.<br/>
 📥 - This link is to a repository.
 
+## Useful Links
+
 - [Profiles Support Forums][Profiles Forum]
 
 [y2krazy]: https://www.thebuddyforum.com/threads/order-bot-quests-quests-and-quests.216756/ "y2krazy's Forum Thread"
