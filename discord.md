@@ -3,23 +3,19 @@ layout: page
 title: Discord Servers
 ---
 
-<center>
-
-Active | Invite | Owner(s)
-:----: | :----: | :------:
-⛔️ | [Click to Join!][Allagan Data Acquisition Module] | AnExiledGod & The Commodore
-✔️ | [Click to Join!][Shinra] | Auk
-✔️ | [Click to Join!][EntraxBuddy] | Entrax
-✔️ | [Click to Join!][Magitek] | Exmortem & Kenny
-✔️ | [Click to Join!][Omniverse] | Omninewb & Fare Dawnstar
-✔️ | [Click to Join!][Lisbeth & Agil] | Saga
-✔️ | [Click to Join!][Sodimms Stuff] | sodimm
-✔️ | [Click to Join!][Mud Assist] | spearmint
-✔️ | [Click to Join!][Wheredidigo] | Wheredidigo
-✔️ | [Click to Join!][y2kode] | y2krazy
-✔️ | [Click to Join!][ZZI Productions] | zzi
-
-</center>
+Active | Invite | Name | Owner(s)
+:----: | :----: | ---- | :------:
+⛔️ | [Click to Join!][Allagan Data Acquisition Module] | Allagan Data Acquisition Module | AnExiledGod & The Commodore
+✔️ | [Click to Join!][Shinra] | Shinra | Auk
+✔️ | [Click to Join!][EntraxBuddy] | EntraxBuddy | Entrax
+✔️ | [Click to Join!][Magitek] | Magitek | Exmortem & Kenny
+✔️ | [Click to Join!][Omniverse] | Omniverse | Omninewb & Fare Dawnstar
+✔️ | [Click to Join!][Lisbeth & Agil] | Lisbeth & Agil | Saga
+✔️ | [Click to Join!][Sodimms Stuff] | Sodimms Stuff | sodimm
+✔️ | [Click to Join!][Mud Assist] | Mud Assist | spearmint
+✔️ | [Click to Join!][Wheredidigo] | Wheredidigo | Wheredidigo
+✔️ | [Click to Join!][y2kode] | y2kode | y2krazy
+✔️ | [Click to Join!][ZZI Productions] | ZZI Productions | zzi
 
 [Allagan Data Acquisition Module]: https://discord.gg/hhpW645 "Allagan Data Acquisition Module"
 [Shinra]: https://discord.gg/uEhp5BJ "Shinra"
