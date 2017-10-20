@@ -6,7 +6,11 @@ title: Discord Servers
 Active | Invite | Name | Owner(s)
 :----: | :----: | ---- | :------:
 ✔️ | [Click to Join!][Rebornbuddy] | Rebornbuddy | The Buddy Team
- | | | 
+
+## Community Servers
+
+Active | Invite | Name | Owner(s)
+:----: | :----: | ---- | :------:
 ⛔️ | [Click to Join!][ADAM] | ADAM | AnExiledGod & The Commodore
 ✔️ | [Click to Join!][EntraxBuddy] | EntraxBuddy | Entrax
 ✔️ | [Click to Join!][Lisbeth & Agil] | Lisbeth & Agil | Saga
