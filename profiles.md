@@ -7,22 +7,22 @@ title: Profiles
 
 Active | Link | Description | Developer(s)
 :-------: | :--: | ----------- | :----------:
-✔️ | [📥][sodimm] | Questing Pack (Lv1-70; MSQ Only)<br/>Job Quests (Lv60-70)<br/>Crafting Class Quests (Lv60-70)<br/>Gathering Leveling (Lv60-70) | [sodimm][Profile_sodimm]
-✔️ | [🔗][y2krazy] | "Official" Questing Pack (Lv1-70)<br/>Class and Job Quests<br/>Gathering Leveling (Lv1-60) | [y2krazy][Profile_y2krazy]
+✔️ | [📥][sodimm] | Questing Pack (Lv01-70; MSQ Only)<br/>Job Quests (Lv60-70)<br/>Crafting Class Quests (Lv60-70)<br/>Gathering Leveling (Lv60-70) | [sodimm][Profile_sodimm]
+✔️ | [🔗][y2krazy] | "Official" Questing Pack (Lv01-70)<br/>Class and Job Quests<br/>Gathering Leveling (Lv01-60) | [y2krazy][Profile_y2krazy]
 
 ## Gathering Profiles
 
 Active | Link | Description | Developer(s)
 :-------: | :--: | ----------- | :----------:
 ✔️ | [📥][sodimm] | Gathering Leveling (Lv60-70) | [sodimm][Profile_sodimm]
-✔️ | [📥][y2krazy2] | Gathering Leveling (Lv1-70)<br/>Purchase Leveling Gear | [y2krazy][Profile_y2krazy]
+✔️ | [📥][y2krazy2] | Gathering Leveling (Lv01-70)<br/>Purchase Leveling Gear | [y2krazy][Profile_y2krazy]
 
 ## Crafting Profiles
 
 Active | Link | Description | Developer(s)
 :-------: | :--: | ----------- | :----------:
 ✔️ | [📥][sodimm] | Crafting Class Quests (Lv60-70) | [sodimm][Profile_sodimm]
-✔️ | [📥][y2krazy2] | Crafting Leveling (Lv1-60)<br/>Purchase Leveling Gear | [y2krazy][Profile_y2krazy]
+✔️ | [📥][y2krazy2] | Crafting Leveling (Lv01-60)<br/>Purchase Leveling Gear | [y2krazy][Profile_y2krazy]
 
 ## Other Profiles
 
