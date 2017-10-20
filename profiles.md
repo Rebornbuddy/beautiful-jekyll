@@ -3,13 +3,44 @@ layout: page
 title: Profiles
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Questing Profiles
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Active | Link | Description | Developer(s)
+:-------: | :--: | ----------- | :----------:
+✔️ | [🔗][y2krazy] | "Official" Questing Pack (Lv1-70)<br/>Class and Job Quests<br/>Gathering Leveling (Lv1-60) | [y2krazy][Profile_y2krazy]
+✔️ | [📥][sodimm] | Questing Pack (Lv1-70; MSQ Only)<br/>Job Quests (Lv60-70)<br/>Crafting Class Quests (Lv60-70)<br/>Gathering Leveling (Lv60-70) | [sodimm][Profile_sodimm]
 
-What else do you need?
+## Gathering Profiles
 
-### my history
+Active | Link | Description | Developer(s)
+:-------: | :--: | ----------- | :----------:
+✔️ | [🔗][y2krazy] | Gathering Leveling (Lv1-70)<br/>Purchase Leveling Gear | [y2krazy][Profile_y2krazy]
+✔️ | [📥][sodimm] | Gathering Leveling (Lv60-70) | [sodimm][Profile_sodimm]
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Crafting Profiles
+
+Active | Link | Description | Developer(s)
+:-------: | :--: | ----------- | :----------:
+✔️ | [🔗][y2krazy] | Crafting Leveling (Lv1-60)<br/>Purchase Leveling Gear | [y2krazy][Profile_y2krazy]
+✔️ | [📥][sodimm] | Crafting Class Quests (Lv60-70) | [sodimm][Profile_sodimm]
+
+## Other Profiles
+
+Active | Link | Description | Developer(s)
+:-------: | :--: | ----------- | :----------:
+✔️ | [🔗][y2krazy] | Seasonal Events<br/>GC Hunting Logs<br/>Aether Currents<br/>Aethernets | [y2krazy][Profile_y2krazy]
+✔️ | [📥][sodimm] | Aether Currents (Stormblood) | [sodimm][Profile_sodimm]
+
+⛔️ - Inactive is defined as no updates provided in the last 3 months.
+🔗 - This link is to a forum thread.
+📥 - This link is to a repository.
+
+- [Profiles Support Forums][Profiles Forum]
+
+[y2krazy]: https://www.thebuddyforum.com/threads/order-bot-quests-quests-and-quests.216756/ "y2krazy's Forum Thread"
+[sodimm]: https://github.com/sodimm/RebornBuddy "sodimm's Repository"
+
+[Profile_y2krazy]: https://www.thebuddyforum.com/members/y2krazy.67481/ "y2krazy's Forum Profile"
+[Profile_sodimm]: https://www.thebuddyforum.com/members/sodimm.313130/ "sodimm's Forum Profile"
+
+[Profiles Forum]: https://www.thebuddyforum.com/forums/rebornbuddy-profiles.303/ "Profiles Support Forums"
